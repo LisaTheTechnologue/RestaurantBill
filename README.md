@@ -8,7 +8,7 @@ Automatically and Manually update the Quantity
 Open the Centennial website when clicking the logo
 
 
-Extra
+
 
 Check for duplicates
 
